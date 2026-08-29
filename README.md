@@ -26,3 +26,5 @@ CPicker
 
 Click anywhere on the screen to get the color.
 
+## Author
+ * [**KPM**](https://github.com/kpmp6)
